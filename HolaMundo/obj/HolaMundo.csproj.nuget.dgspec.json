@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yrodriguez\\Desktop\\curso_C_Sharp\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\yrodriguez\\desktop\\curso_c#\\HolaMundo\\HolaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yrodriguez\\Desktop\\curso_C_Sharp\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\yrodriguez\\desktop\\curso_c#\\HolaMundo\\HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yrodriguez\\Desktop\\curso_C_Sharp\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\yrodriguez\\desktop\\curso_c#\\HolaMundo\\HolaMundo.csproj",
         "projectName": "HolaMundo",
-        "projectPath": "C:\\Users\\yrodriguez\\Desktop\\curso_C_Sharp\\HolaMundo\\HolaMundo.csproj",
+        "projectPath": "C:\\Users\\yrodriguez\\desktop\\curso_c#\\HolaMundo\\HolaMundo.csproj",
         "packagesPath": "C:\\Users\\yrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yrodriguez\\Desktop\\curso_C_Sharp\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\yrodriguez\\desktop\\curso_c#\\HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yrodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
